@@ -37,10 +37,30 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/yoonjulee/project/PracticeJava/src/Main.java",
+    "애플리케이션._01_Array.executor": "Run",
     "애플리케이션._01_HelloWorld.executor": "Run",
-    "애플리케이션._03_Variables.executor": "Run"
+    "애플리케이션._01_If.executor": "Run",
+    "애플리케이션._01_Method.executor": "Run",
+    "애플리케이션._02_ArrayLoop.executor": "Run",
+    "애플리케이션._03_MDArray.executor": "Run",
+    "애플리케이션._03_Variables.executor": "Run",
+    "애플리케이션._04_ASCII.executor": "Run",
+    "애플리케이션._04_SwitchCase.executor": "Run",
+    "애플리케이션._05_For.executor": "Run",
+    "애플리케이션._05_Overloading.executor": "Run",
+    "애플리케이션._07_TypeCasting.executor": "Run"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="chap_06._08_MainMethod" />
+      <module name="PracticeJava" />
+      <option name="PROGRAM_PARAMETERS" value="테스트 전달값 입니다" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
